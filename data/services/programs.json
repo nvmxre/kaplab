@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Снижение веса Super",
+    "slug": "/services/programs/super",
+    "description": "Анализы + консультация и сопровождение врача + жиросжигающие капельницы + капельницы от отеков и метаболические уколы",
+    "duration": "3-месячный курс",
+    "image": "/assets/programs/super.jpg",
+    "category": "Снижение веса",
+    "disabled": false
+  },
+  {
+    "id": 2,
+    "title": "Комплекс по оптимизации белкового обмена",
+    "slug": "/services/programs/protein-optimization",
+    "description": "У вас не получается самостоятельно набрать мышечную массу? Вам тяжело даётся восстановление после тренировок?",
+    "duration": "3-месячный курс",
+    "image": "/assets/programs/protein-optimization.webp",
+    "category": "Снижение веса",
+    "disabled": false
+  },
+  {
+    "id": 3,
+    "title": "Программа «Омоложение изнутри»",
+    "slug": "/services/programs/omolozhenie-iznutri",
+    "description": "Представляем комплексную программу «Омоложение изнутри» – ваш путь к восстановлению жизненных сил и естественной красоты на клеточном уровне. Почувствуйте себя моложе, энергичнее и верните коже сияние!",
+    "duration": "4-недельный курс",
+    "image": "/assets/programs/weight-loss.jpg",
+    "category": "Омоложение",
+    "disabled": false
+  },
+  {
+    "id": 4,
+    "title": "Программа «Метаболический старт»",
+    "slug": "/services/programs/metabolicheskiy-start",
+    "description": "Устали от диет, которые не работают? Вес возвращается снова и снова, а самочувствие оставляет желать лучшего? Возможно, дело не только в калориях.",
+    "duration": "4-недельный курс",
+    "image": "/assets/programs/metabolicheskiy-start.jpg",
+    "category": "Омоложение",
+    "disabled": false
+  },
+  {
+    "id": 5,
+    "title": "Комплексная программа Красота и упругость кожи",
+    "slug": "/services/programs/krasota-i-uprugost-kozhi",
+    "description": "Забудьте о бесконечных кремах и процедурах с временным эффектом. Мы предлагаем революционный подход — инфузионную терапию для омоложения кожи, которая работает на клеточном уровне.",
+    "duration": "10 сеансов",
+    "image": "/assets/programs/krasota-i-uprugost-kozhi.jpg",
+    "category": "Красота",
+    "disabled": false
+  },
+  {
+    "id": 6,
+    "title": "Женское здоровье",
+    "slug": "/services/programs/zhenskoe-zdorovie",
+    "description": "Верните себе сияние, энергию и баланс с курсом капельниц «Женское Здоровье»!",
+    "image": "/assets/programs/women-health.jpg",
+    "duration": "от 30 мин до 2 часов",
+    "category": "Здоровье",
+    "disabled": false
+  },
+  {
+    "id": 7,
+    "title": "Мужское здоровье",
+    "slug": "/services/programs/muzhskoe-zdorovie",
+    "description": "Современный ритм жизни не щадит даже самых сильных мужчин. Но у нас есть решение!",
+    "image": "/assets/programs/men-health.jpg",
+    "duration": "4 сеанса",
+    "category": "Здоровье",
+    "disabled": false
+  },
+  {
+    "id": 8,
+    "title": "Миланский коктейль",
+    "slug": "/services/programs/milanskiy-kokteyl",
+    "description": "Чувствуете усталость и не можете быстро восстановиться после интенсивных тренировок? Хотите вернуть себе бодрость, улучшить самочувствие и внешний вид?",
+    "image": "/assets/programs/milanskiy-kokteyl.jpg",
+    "duration": "от 30 мин до 2 часов на сеанс",
+    "category": "Восстановление",
+    "disabled": false
+  },
+  {
+    "id": 9,
+    "title": "Семейное счастье",
+    "slug": "/services/programs/semeynoe-schastie",
+    "description": "Программа помогает восстановить эмоциональную близость, улучшить взаимопонимание и повысить качество отношений через комплексное воздействие на организм.",
+    "image": "/assets/programs/semeynoe-schastie.jpg",
+    "duration": "4 сеанса",
+    "category": "Восстановление",
+    "disabled": false
+  }
+]

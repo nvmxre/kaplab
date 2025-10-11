@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "Липолитичекский комплекс MPX - Lipolytic 2мл + капельница детокс первая процедура",
+    "category": "Мезотерапия по телу",
+    "slug": "/lipolytic-and-detox",
+    "price": 9000
+  },
+  {
+    "id": 2,
+    "title": "Липолитичекский комплекс MPX- Lipolytic 2мл + капельница детокс",
+    "category": "Мезотерапия по телу",
+    "price": 15000
+  },
+  {
+    "id": 3,
+    "title": "Акция Релатокс неограниченное количество единиц",
+    "category": "Ботулинотерапия",
+    "price": 12000
+  },
+  {
+    "id": 4,
+    "title": "Hydroline 4 ml",
+    "category": "Биоревитализация",
+    "price": 18000
+  },
+  {
+    "id": 5,
+    "title": "Nucleo Spire DNA-RNA 1% Lift 4 ml",
+    "category": "Биоревитализация",
+    "price": 18000
+  },
+  {
+    "id": 6,
+    "title": "Viscoline intense 1 ml",
+    "category": "Контурная пластика филлерами",
+    "price": 15000
+  },
+  {
+    "id": 7,
+    "title": "MiraLine Deep 1,1 ml",
+    "category": "Контурная пластика филлерами",
+    "price": 15000
+  }
+]
