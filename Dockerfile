@@ -25,8 +25,8 @@ COPY --from=base /app/node_modules ./node_modules
 COPY --from=base /app/next.config.mjs ./
 # COPY --from=base /app/.env ./.env
 
-# Next.js работает на порту 3000
-EXPOSE 3000
+ENV PORT=443
+EXPOSE 443
 
 # Команда запуска
 CMD ["npm", "run", "start"]
