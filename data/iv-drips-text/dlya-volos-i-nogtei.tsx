@@ -3,7 +3,7 @@ export const DripDlyaVolosINogtei = () => (
     <div className="max-w-3xl mx-auto px-4 font-sans">
         <h1 className="text-xl font-bold text-primary mb-4">Капельница для волос и ногтей</h1>
         <p className="text-lg font-semibold text-green-700 mb-4">
-            Консультация и сопровождение врача в подарок — от 8 000 ₽
+            Консультация и сопровождение врача в подарок — от 10 000 ₽
         </p>
 
         <p className="mb-4">
@@ -38,15 +38,15 @@ export const DripDlyaVolosINogtei = () => (
         <h2 className="text-lg font-bold text-primary mb-2">Варианты капельниц</h2>
         <div className="space-y-4 mb-6">
             <div className="border p-4 rounded-lg bg-gray-50">
-                <h3 className="text-md font-semibold text-primary mb-1">Базовый состав — 8 000 ₽</h3>
+                <h3 className="text-md font-semibold text-primary mb-1">Базовый состав — 10 000 ₽</h3>
                 <p>Быстрое улучшение состояния волос и ногтей. Рекомендован при начальных проявлениях дефицита.</p>
             </div>
             <div className="border p-4 rounded-lg bg-gray-50">
-                <h3 className="text-md font-semibold text-primary mb-1">Люкс состав — 12 000 ₽</h3>
+                <h3 className="text-md font-semibold text-primary mb-1">Люкс состав — 13 000 ₽</h3>
                 <p>Расширенный состав для глубокого восстановления и борьбы с выраженными проблемами.</p>
             </div>
             <div className="border p-4 rounded-lg bg-gray-50">
-                <h3 className="text-md font-semibold text-primary mb-1">Макси состав — 16 000 ₽</h3>
+                <h3 className="text-md font-semibold text-primary mb-1">Макси состав — 17 000 ₽</h3>
                 <p>Максимальная дозировка аминокислот и минералов для пролонгированного эффекта и стойких результатов.</p>
             </div>
         </div>

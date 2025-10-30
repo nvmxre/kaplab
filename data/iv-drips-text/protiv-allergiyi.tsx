@@ -29,7 +29,7 @@ export const DripProtivAllergiyi = () => {
 
                 <div className="bg-primary p-6 rounded-lg">
                     <h3 className="text-lg font-semibold text-primary-foreground mb-1">1 капельница</h3>
-                    <p className="text-2xl font-bold text-primary-foreground mb-4">8 000 ₽</p>
+                    <p className="text-2xl font-bold text-primary-foreground mb-4">9 000 ₽</p>
                     <p className="font-semibold text-primary-foreground">При покупке от 6 капельниц:</p>
                     <p className="text-primary-foreground">6-ая капельница в подарок</p>
                 </div>

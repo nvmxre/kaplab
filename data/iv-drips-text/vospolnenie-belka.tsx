@@ -29,7 +29,7 @@ export const DripVospolnenieBelka = () => {
                     <div className="bg-secondary p-6 rounded-lg">
                         <div className="mb-4 pb-4 border-b border-secondary">
                             <h3 className="text-lg font-semibold text-primary">1 процедура</h3>
-                            <p className="text-2xl font-bold text-primary">7 000 ₽</p>
+                            <p className="text-2xl font-bold text-primary">8 000 ₽</p>
                         </div>
                         <div className="p-4 bg-secondary rounded-lg">
                             <p className="font-bold text-primary">При курсе от 6 процедур:</p>

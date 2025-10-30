@@ -12,7 +12,7 @@ export const ProgramOmolozhenieIznutri = () => (
                     Специальное предложение для старта:
                     <br />
                     Расширенный чекап + консультация врача + первая капельница всего за
-                    <span className="text-primary font-bold"> 10 990₽</span> вместо
+                    <span className="text-primary font-bold"> 14 990₽</span> вместо
                     <span className="line-through"> 33 500₽</span>
                 </p>
             </div>
@@ -138,7 +138,7 @@ export const ProgramOmolozhenieIznutri = () => (
         <section className="text-center bg-secondary p-8 rounded-xl">
             <p className="text-xl mb-2">Стоимость полного курса: <span className="font-bold">95 000₽</span></p>
             <p className="text-xl font-bold text-primary mb-4">
-                Начать можно уже сегодня всего за <span className="text-xl">8 990₽</span>!
+                Начать можно уже сегодня всего за <span className="text-xl">14 990₽</span>!
             </p>
             <p className="text-lg mb-6">Запись по телефону или через форму на сайте.</p>
             <p className="font-semibold italic">Ваше здоровье — наш приоритет!</p>

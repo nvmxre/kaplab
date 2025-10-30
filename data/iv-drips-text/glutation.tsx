@@ -22,7 +22,7 @@ export const DripGlutation = () => (
                 </div>
                 <div className="mb-4">
                     <h3 className="font-semibold text-primary">1 процедура:</h3>
-                    <p className="text-lg font-bold text-primary">6 000 ₽</p>
+                    <p className="text-lg font-bold text-primary">8 000 ₽</p>
                 </div>
                 <div className="bg-secondary p-3 rounded">
                     <p className="font-semibold text-primary">При курсе от 6 процедур:</p>

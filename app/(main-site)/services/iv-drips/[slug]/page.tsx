@@ -53,7 +53,7 @@ const ivDripsData: any = {
     description:
       "Есть симптомы простуды? Но нужно работать и дедлайн в делах?",
     type: "Восстановление",
-    price: "12 000 р.",
+    price: "14 000 р.",
     duration: "от 30 мин до 2 часов",
     image: "/assets/iv-therapy/stress/1.webp",
     text: <DripQuickRecovery/>
@@ -63,7 +63,7 @@ const ivDripsData: any = {
     description:
         "Капельница для волос и ногтей — это не косметический трюк, а полноценная нутритивная терапия, которая питает организм изнутри. Компоненты поступают сразу в кровь, обеспечивая 100% усвоение.",
     type: "Восстановление",
-    price: "12 000 р.",
+    price: "10 000 р.",
     duration: "от 30 мин до 2 часов",
     image: "/assets/iv-therapy/recovery/0.webp",
     text: <DripDlyaVolosINogtei/>
@@ -73,7 +73,7 @@ const ivDripsData: any = {
     description:
         "Процедура за 50 мин, омолаживающий эффект через 7 дней вместо 3 месяцев таблеток!",
     type: "Красота и молодость",
-    price: "8000 р.",
+    price: "9000 р.",
     duration: "от 30 мин до 2 часов",
     image: "/assets/iv-therapy/stress/2.webp",
     text: <DripCinderella/>
@@ -83,7 +83,7 @@ const ivDripsData: any = {
     description:
         "Процедура за 50 мин, омолаживающий эффект через 7 дней вместо 3 месяцев таблеток!",
     type: "Красота и молодость",
-    price: "12000 р.",
+    price: "13000 р.",
     duration: "от 30 мин до 2 часов",
     image: "/assets/iv-therapy/stress/0.webp",
     text: <DripCinderellaLux/>
@@ -100,7 +100,7 @@ const ivDripsData: any = {
   "home-recovery": {
     name: "Капельница «Восстановление на дому»",
     type: "Красота и молодость",
-    price: "16 000 р.",
+    price: "18 000 р.",
     duration: "от 30 мин до 2 часов",
     image: "/assets/iv-therapy/stress/3.webp",
     text: <DripHomeRecovery/>
@@ -117,119 +117,119 @@ const ivDripsData: any = {
   "protiv-stressa": {
     name: "Капельница «Против стресса»",
     type: "Против стресса",
-    price: "6000 р.",
+    price: "8000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripProtivStressa/>
   },
   "protiv-allergiyi": {
     name: "Капельница «Против аллергии»",
     type: "Против аллергии",
-    price: "8000 р.",
+    price: "9000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripProtivAllergiyi/>
   },
   "vospolnenie-belka": {
     name: "Капельница «Восполнение белка»",
     type: "Восполнение белка",
-    price: "7000 р.",
+    price: "8000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripVospolnenieBelka/>
   },
   "protiv-pohmelya": {
     name: "Капельница «Против похмелья»",
     type: "Против похмелья",
-    price: "7000 р.",
+    price: "9000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripProtivPohmelya/>
   },
   "detox": {
     name: "Капельница «Детокс»",
     type: "Детокс",
-    price: "9000 р.",
+    price: "10500 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripDetox/>
   },
   "ukreplenie-zdorovia": {
     name: "Капельница «Укрепление здоровья и иммунитета»",
     type: "Здоровье",
-    price: "9000 р.",
+    price: "11000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripUkreplenieZdorovia/>
   },
   "vinoslivost-k-nagruzkam": {
     name: "Капельница «Выносливость к нагрузкам»",
     type: "Восстановление",
-    price: "9000 р.",
+    price: "11000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripVinoslivostKNagruzkam/>
   },
   "protiv-gerpesa": {
     name: "Капельница «Против Герпеса»",
     type: "Подавление вируса",
-    price: "9000 р.",
+    price: "10000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripProtivGerpesa/>
   },
   "protiv-prostudy": {
     name: "Капельница «Против простуды»",
     type: "Подавление вируса",
-    price: "9000 р.",
+    price: "10000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripProtivProstudy/>
   },
   "stop-migren": {
     name: "Капельница «Стоп Мигрень»",
     type: "От головной боли",
-    price: "7000 р.",
+    price: "9000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripStopMigren/>
   },
   "energizer": {
     name: "Капельница «Энерджайзер»",
     type: "Восполнение энергии",
-    price: "6000 р.",
+    price: "8000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripEnergizer/>
   },
   "activnost-mozga": {
     name: "Капельница «Активность мозга»",
     type: "Активность мозга",
-    price: "6000 р.",
+    price: "8000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripActivnostMozga/>
   },
   "glutation": {
     name: "Капельница «Глутатион»",
     type: "Мощный антиоксидант",
-    price: "6000 р.",
+    price: "8000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripGlutation/>
   },
   "laennek": {
     name: "Капельница «Лаеннек»",
     type: "Anti-age эффект",
-    price: "12 200 р.",
+    price: "14 200 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripLaennek/>
   },
   "uhod-za-kozhey": {
     name: "Капельница «Уход за кожей»",
     type: "Красота и молодость",
-    price: "8000 р.",
+    price: "10000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripUhodZaKozhey/>
   },
   "uhod-za-volosami": {
     name: "Капельница «Уход за волосами»",
     type: "Красота и молодость",
-    price: "8000 р.",
+    price: "10000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripUhodZaVolosami/>
   },
   "barbi": {
     name: "Капельница «Барби»",
     type: "Красота и молодость",
-    price: "8000 р.",
+    price: "10000 р.",
     duration: "от 30 мин до 2 часов",
     text: <DripBarbi/>
   },

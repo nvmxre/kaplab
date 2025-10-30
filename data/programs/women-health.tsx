@@ -8,7 +8,7 @@ export const ProgramWomenHealth = () => (
             </h1>
             <div className="bg-secondary p-4 rounded-lg mb-4">
                 <p className="font-semibold mb-2">
-                    Чек-ап Женское здоровье + первая капельница: <span className="text-primary">7 990₽</span> вместо <span className="line-through">25 000₽</span>
+                    Чек-ап Женское здоровье + первая капельница: <span className="text-primary">9 990₽</span> вместо <span className="line-through">25 000₽</span>
                 </p>
                 <div className="text-left">
                     <p className="mb-1">• Общий анализ крови с лейкоцитарной формулой</p>
@@ -91,8 +91,8 @@ export const ProgramWomenHealth = () => (
         {/* Цены */}
         <section className="mb-8 bg-secondary p-4 rounded-lg">
             <h2 className="text-xl font-bold text-primary mb-2">Подарите себе обновление уже сегодня!</h2>
-            <p className="mb-2">• Чек-ап + первая капельница — 7 990₽ вместо 25 000₽</p>
-            <p>• Капельница «Женское здоровье» — 12 000₽</p>
+            <p className="mb-2">• Чек-ап + первая капельница — 9 990₽ вместо 25 000₽</p>
+            <p>• Капельница «Женское здоровье» — 13 000₽</p>
         </section>
 
         {/* Противопоказания */}

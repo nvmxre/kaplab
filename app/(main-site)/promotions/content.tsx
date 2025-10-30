@@ -80,7 +80,7 @@ const promos: PromoItemType[] = [
         id: 0,
         title: "Чек-ап + капельница «Омоложение изнутри»",
         src: "/assets/programs/weight-loss.jpg",
-        newPrice: "12.990",
+        newPrice: "14.990",
         oldPrice: "33.500",
         bullets: [
             "Клеточное восстановление",
@@ -95,7 +95,7 @@ const promos: PromoItemType[] = [
         id: 1,
         title: "Чек-ап + капельница «Женское здоровье»",
         src: "/assets/programs/women-health.jpg",
-        newPrice: "7.990",
+        newPrice: "9.990",
         oldPrice: "25.000",
         bullets: [
             "Общий анализ крови с лейкоцитарной формулой",
@@ -109,7 +109,7 @@ const promos: PromoItemType[] = [
         id: 2,
         title: "Чек-ап + капельница «Метаболический старт»",
         src: "/assets/programs/metabolicheskiy-start.jpg",
-        newPrice: "12.990",
+        newPrice: "14.990",
         oldPrice: "35.500",
         bullets: [
             "4 недели с посещением раз в неделю",

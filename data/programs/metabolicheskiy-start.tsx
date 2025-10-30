@@ -8,7 +8,7 @@ export const ProgramMetabolicheskiyStart = () => (
             <div className="bg-secondary p-2 rounded-lg">
                 <p className="font-semibold">
                     Специальное предложение: чекап + консультация + капельница за
-                    <span className="text-primary"> 8990₽</span> вместо
+                    <span className="text-primary"> 14990₽</span> вместо
                     <span className="line-through"> 35 500₽</span>
                 </p>
             </div>

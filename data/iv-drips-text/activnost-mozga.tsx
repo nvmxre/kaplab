@@ -7,7 +7,7 @@ export const DripActivnostMozga = () => (
             Капельницы для улучшения когнитивных функций и повышения энергии, поддержки работы мозга, борьбы с усталостью и стимуляции умственной активности.
         </p>
 
-        <h2 className="text-lg font-bold text-primary mb-2">Базовый состав – 6 000 ₽</h2>
+        <h2 className="text-lg font-bold text-primary mb-2">Базовый состав – 8 000 ₽</h2>
         <ul className="list-disc list-inside pl-5 mb-4">
             <li>Ноотропный препарат</li>
             <li>Янтарная кислота</li>
@@ -16,7 +16,7 @@ export const DripActivnostMozga = () => (
             <li>Милдронат или Мексидол (по показаниям)</li>
         </ul>
 
-        <h2 className="text-lg font-bold text-primary mb-2">Макси состав – 9 000 ₽</h2>
+        <h2 className="text-lg font-bold text-primary mb-2">Макси состав – 11 000 ₽</h2>
         <ul className="list-disc list-inside pl-5 mb-4">
             <li>Все из базового состава</li>
             <li>Тиоктовая кислота</li>

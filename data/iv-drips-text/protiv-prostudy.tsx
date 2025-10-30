@@ -6,7 +6,7 @@ export const DripProtivProstudy = () => (
             <h1 className="text-xl font-bold text-primary mb-3">Капельница «Против простуды»</h1>
             <div className="bg-secondary p-4 rounded-lg mb-4">
                 <p className="font-semibold mb-2">
-                    1 процедура: <span className="text-primary">9 000₽</span>
+                    1 процедура: <span className="text-primary">10 000₽</span>
                 </p>
                 <p>При курсе от 6 процедур — 6-ая процедура в подарок</p>
             </div>

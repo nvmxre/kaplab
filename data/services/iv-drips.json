@@ -4,7 +4,7 @@
     "title": "Суперэффективная капельница «Быстрое восстановление»",
     "slug": "/services/iv-drips/quick-recovery",
     "description": "Быстро восполняет энергию в организме и повышают работоспособность, концентрацию внимания и качество сна",
-    "price": 12000,
+    "price": 14000,
     "disabled": false,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/stress/1.webp",
@@ -15,7 +15,7 @@
     "title": "Капельница «Золушка»",
     "slug": "/services/iv-drips/cinderella",
     "description": "Коктейль молодости «Золушка» предотвращает старение кожи, улучшает самочувствие.",
-    "price": 8000,
+    "price": 9000,
     "disabled": false,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/stress/2.webp",
@@ -26,7 +26,7 @@
     "title": "Капельница «Золушка Люкс»",
     "slug": "/services/iv-drips/cinderella-lux",
     "description": "Повышенная эффективность на снижение пигментации кожи, улучшение качества волос и ногтей по сравнению с базовым составом за счет расширенного комплекса компонентов и их синергетического действия.",
-    "price": 12000,
+    "price": 13000,
     "disabled": false,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/stress/0.webp",
@@ -49,7 +49,7 @@
     "slug": "/services/iv-drips/home-recovery",
     "disabled": false,
     "description": "Снятие усталости, бодрость, улучшение самочувствия",
-    "price": 16000,
+    "price": 18000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/stress/3.webp",
     "category": ["Стресс, усталость, мигрень", "Восстановление после тренировок", "Активность мозга и концентрация внимания"]
@@ -60,7 +60,7 @@
     "slug": "/services/iv-drips/protiv-stressa",
     "disabled": false,
     "description": "Для избавления от хронической усталости, апатии и плохого настроения. Поможет вернуть силы и радость жизни!",
-    "price": 6000,
+    "price": 8000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/stress/4.webp",
     "category": "Стресс, усталость, мигрень"
@@ -71,7 +71,7 @@
     "description": "Быстрое избавление от головной боли, уменьшение чувствительности к погоде и улучшение самочувствия",
     "slug": "/services/iv-drips/stop-migren",
     "disabled": false,
-    "price": 7000,
+    "price": 9000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/stress/5.webp",
     "category": "Стресс, усталость, мигрень"
@@ -82,7 +82,7 @@
     "description": "Быстро восполняет энергию в организме и повышают работоспособность, концентрацию внимания и качество сна",
     "slug": "/services/iv-drips/energizer",
     "disabled": false,
-    "price": 6000,
+    "price": 8000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/stress/6.webp",
     "category": ["Стресс, усталость, мигрень", "Восстановление после тренировок", "Активность мозга и концентрация внимания"]
@@ -93,7 +93,7 @@
     "description": "Капельница для волос и ногтей — это не косметический трюк, а полноценная нутритивная терапия, которая питает организм изнутри. Компоненты поступают сразу в кровь, обеспечивая 100% усвоение.",
     "slug": "/services/iv-drips/dlya-volos-i-nogtei",
     "disabled": false,
-    "price": 12000,
+    "price": 10000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/recovery/0.webp",
     "category": ["Стресс, усталость, мигрень", "Красота и молодость", "Дефицит витаминов и железа", "Восстановление после болезни (Ковида, ОРВИ, Гриппа)"]
@@ -104,7 +104,7 @@
     "description": "Быстро избавит от похмелья и поставит на ноги, вернет ясность ума и энергию",
     "slug": "/services/iv-drips/protiv-pohmelya",
     "disabled": false,
-    "price": 7000,
+    "price": 9000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/detox/2.webp",
     "category": "Похмелье или отравление"
@@ -115,7 +115,7 @@
     "description": "Восстановление печени и очищение организма от токсинов, остатков алкоголя. Избавление от утомляемости и депрессии",
     "slug": "/services/iv-drips/detox",
     "disabled": false,
-    "price": 9000,
+    "price": 10500,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/detox/3.webp",
     "category": ["Похмелье или отравление", "Красота и молодость", "Детокс организма и аллергия", "Восстановление после болезни (Ковида, ОРВИ, Гриппа)"]
@@ -126,7 +126,7 @@
     "description": "Капельница красоты и молодости увлажняет и питает кожу, защищает ее от преждевременного старения",
     "slug": "/services/iv-drips/uhod-za-kozhey",
     "disabled": false,
-    "price": 8000,
+    "price": 10000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/beauty/3.webp",
     "category": "Красота и молодость"
@@ -137,7 +137,7 @@
     "description": "Капельница работает с вашими волосами \"изнутри\", поэтому помогает вернуть их здоровье и красоту. Лечебные компоненты…",
     "slug": "/services/iv-drips/uhod-za-volosami",
     "disabled": false,
-    "price": 8000,
+    "price": 10000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/beauty/4.webp",
     "category": "Красота и молодость"
@@ -147,7 +147,7 @@
     "title": "«Барби-капельница»",
     "slug": "/services/iv-drips/barbi",
     "disabled": false,
-    "price": 8000,
+    "price": 10000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/beauty/5.webp",
     "category": "Красота и молодость"
@@ -175,7 +175,7 @@
     "id": 15,
     "title": "Жиросжигающие капельницы для похудения «Снижение веса»",
     "description": "Эффективно помогает сжигать жир и худеть без потери мышечной массы и жидкости!",
-    "price": 6000,
+    "price": 7000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/fit/2.webp",
     "category": "Для стройности"
@@ -184,7 +184,7 @@
     "id": 16,
     "title": "Капельница «Ускорение метаболизма»",
     "description": "Капельница помогает организму ускорить обмен веществ (метаболизм), очистить организм от металлов и нормализовать работу печени!",
-    "price": 9000,
+    "price": 10500,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/fit/3.webp",
     "category": "Для стройности"
@@ -195,7 +195,7 @@
     "description": "Помогает восполнить дефицит белка в организме и борется со слабостью и усталостью, сухостью кожи, возвращает…",
     "slug": "/services/iv-drips/vospolnenie-belka",
     "disabled": false,
-    "price": 7000,
+    "price": 8000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/deficit/1.webp",
     "category": "Дефицит витаминов и железа"
@@ -206,7 +206,7 @@
     "description": "Усиление иммунитета, профилактика и восстановление здоровья и сил после болезни",
     "slug": "/services/iv-drips/ukreplenie-zdorovia",
     "disabled": false,
-    "price": 9000,
+    "price": 11000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/deficit/2.webp",
     "category": ["Дефицит витаминов и железа", "Восстановление после болезни (Ковида, ОРВИ, Гриппа)"]
@@ -217,7 +217,7 @@
     "description": "Восполняет недостаток глутатиона, замедляет процессы старения организма",
     "slug": "/services/iv-drips/glutation",
     "disabled": false,
-    "price": 6000,
+    "price": 8000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/deficit/3.webp",
     "category": "Дефицит витаминов и железа"
@@ -228,7 +228,7 @@
     "description": "Капельница «Лаеннек» оказывает anti-age эффект, нормализует обмен веществ, ускоряет процессы регенерации клеток, повышает общий иммунитет",
     "slug": "/services/iv-drips/laennek",
     "disabled": false,
-    "price": 12200,
+    "price": 14200,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/deficit/4.webp",
     "category": "Дефицит витаминов и железа"
@@ -239,7 +239,7 @@
     "description": "Избавляет от аллергии и проблем с реакцией на цветение, животных, еду. Идеальна для быстрого лечения…",
     "slug": "/services/iv-drips/protiv-allergiyi",
     "disabled": false,
-    "price": 8000,
+    "price": 9000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/allergy/1.webp",
     "category": "Детокс организма и аллергия"
@@ -250,7 +250,7 @@
     "description": "Быстрое восстановление после тренировок, повышение силы и выносливости организма для занятий спортом и не только",
     "slug": "/services/iv-drips/vinoslivost-k-nagruzkam",
     "disabled": false,
-    "price": 9000,
+    "price": 11000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/recovery/1.webp",
     "category": "Восстановление после тренировок"
@@ -261,7 +261,7 @@
     "description": "Быстрое и эффективное избавляет от зуда, болей и покраснений при герпесе, укрепляет иммунитет",
     "slug": "/services/iv-drips/protiv-gerpesa",
     "disabled": false,
-    "price": 9000,
+    "price": 10000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/illness/1.webp",
     "category": "Восстановление после болезни (Ковида, ОРВИ, Гриппа)"
@@ -272,7 +272,7 @@
     "description": "Быстрое и эффективное восстановление здоровья и сил после болезни",
     "slug": "/services/iv-drips/protiv-prostudy",
     "disabled": false,
-    "price": 9000,
+    "price": 10000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/illness/2.webp",
     "category": "Восстановление после болезни (Ковида, ОРВИ, Гриппа)"
@@ -283,7 +283,7 @@
     "description": "Улучшает память и повышает концентрацию, внимание, восстанавливает после Ковида",
     "slug": "/services/iv-drips/activnost-mozga",
     "disabled": false,
-    "price": 6000,
+    "price": 8000,
     "duration": "от 30 мин до 2 часов",
     "image": "/assets/iv-therapy/brain-activity/1.webp",
     "category": "Активность мозга и концентрация внимания"

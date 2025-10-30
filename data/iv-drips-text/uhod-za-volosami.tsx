@@ -3,7 +3,7 @@ export const DripUhodZaVolosami = () => (
     <div className="max-w-3xl mx-auto px-4 font-sans">
         <h1 className="text-xl font-bold text-primary mb-4">Капельница «Уход за волосами»</h1>
 
-        <p className="mb-2 text-secondary"><strong>Цена:</strong> от 8 000 ₽</p>
+        <p className="mb-2 text-secondary"><strong>Цена:</strong> от 10 000 ₽</p>
         <p className="mb-4"><strong>Длительность:</strong> от 30 мин до 2 часов</p>
 
         <p className="mb-4">

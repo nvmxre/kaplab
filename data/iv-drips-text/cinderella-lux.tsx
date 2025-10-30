@@ -8,7 +8,7 @@ export const DripCinderellaLux = () => (
             "Золушка Люкс" демонстрирует повышенную эффективность на снижение пигментации кожи, улучшение качества волос и ногтей по сравнению с базовым составом за счёт расширенного комплекса компонентов и их синергетического действия.
         </p>
 
-        <h2 className="text-lg font-bold text-primary mb-2">Состав "Золушка" – 8 000 ₽</h2>
+        <h2 className="text-lg font-bold text-primary mb-2">Состав "Золушка" – 9 000 ₽</h2>
         <ul className="list-disc list-inside pl-5 mb-4">
             <li>Глутатион</li>
             <li>Альфа-липоевая кислота</li>
@@ -18,7 +18,7 @@ export const DripCinderellaLux = () => (
             Компоненты борются со старением, уменьшают пигментацию, улучшают состояние кожи.
         </p>
 
-        <h2 className="text-lg font-bold text-primary mb-2">Состав "Золушка Люкс" – 12 000 ₽</h2>
+        <h2 className="text-lg font-bold text-primary mb-2">Состав "Золушка Люкс" – 13 000 ₽</h2>
         <ul className="list-disc list-inside pl-5 mb-4">
             <li>Все компоненты из базового состава</li>
             <li>Биотин</li>
